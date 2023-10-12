@@ -16,10 +16,6 @@ namespace Lab05_GUI
     public partial class frmQuanLySinhVien : Form
     {
         private readonly StudentService studentService = new StudentService();
-
-
-
-
         private readonly FacultyService facultyService = new FacultyService();
 
         public frmQuanLySinhVien()
