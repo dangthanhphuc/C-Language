@@ -25,6 +25,8 @@ namespace Lab05_GUI
         public frmQuanLySinhVien()
         {
             InitializeComponent();
+            test
+
         }
 
         private void frmQuanLySinhVien_Load(object sender, EventArgs e)
